@@ -28,7 +28,6 @@ if submit:
     if img_path.exists() and temp_path.exists():  
 
         len_vid = VideoFileClip(f"./saved/{temp.name}").duration
-        st.write("video length: " + str(len_vid))
 
         if len_vid <= 30:
             process.generate(img.name, temp.name)
