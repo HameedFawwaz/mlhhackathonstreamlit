@@ -1,0 +1,12 @@
+streamlit
+moviepy
+torch
+numpy
+scikit-image
+IPython
+matplotlib
+imageio
+scikit-learn
+PyYAML
+Pillow
+scipy
