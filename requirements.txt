@@ -1,6 +1,7 @@
 streamlit
 moviepy
 torch
+torchvision
 numpy
 scikit-image==0.18.0
 IPython
