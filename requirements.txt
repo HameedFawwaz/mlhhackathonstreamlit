@@ -2,7 +2,7 @@ streamlit
 moviepy
 torch
 numpy
-scikit-image
+scikit-image==0.18.0
 IPython
 matplotlib
 imageio
