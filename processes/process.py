@@ -8,7 +8,6 @@ from processes.demo import load_checkpoints, make_animation
 from skimage import img_as_ubyte
 from moviepy.editor import *
 from moviepy.editor import VideoFileClip
-import ffmpeg
 
 class process():
 
